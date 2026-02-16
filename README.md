@@ -29,7 +29,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 - **O que fiz:** Atuei na migração para o ecossistema **Angular**, desenvolvendo novas páginas dinâmicas e garantindo a manutenção.
 - **Techs:** Angular, TypeScript.
 
-<img src="eurobike.png" width="100%">
+<img src="eurobikee.png" width="100%">
 
 <br>
 
@@ -65,7 +65,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 - **O que fiz:** Projetos focados na jornada do utilizador e design responsivo (Mobile First).
 - **Techs:** HTML5, CSS3, UI Design.
 
-<img src="sonhodenoivos.png" width="100%">
+<img src="sonho de noivos.png" width="100%">
 
 ---
 
