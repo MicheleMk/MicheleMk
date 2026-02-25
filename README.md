@@ -9,16 +9,30 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 - 📫 **Contacto:** michelem1309@gmail.com
 
 ---
-
-## 🛠 Tech Stack
+### 🛠️ Tecnologias e Ferramentas
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Responsividade](https://img.shields.io/badge/Responsividade_Mobile--First-00ACC1?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Versionamento, Editores & Design
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🤖 Inovação & Produtividade
+
+![Engenharia de Prompt](https://img.shields.io/badge/Engenharia_de_Prompt-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Automação com IA](https://img.shields.io/badge/Automação_com_IA-0F9D58?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Otimização de Código](https://img.shields.io/badge/Otimização_de_Código-FF9900?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 
@@ -28,9 +42,9 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 **O Desafio:** Migração e reestruturação completa de uma plataforma legada para o ecossistema Angular.
 - **O que fiz:** Desenvolvimento de páginas dinâmicas, reestruturação de formulários e manutenção contínua da interface.
 - **Techs:** Angular, TypeScript.
-
+<a href="https://www.eurobike.com.br/" target="_blank">
 <img src="eurobikee.png" width="100%">
-
+</a>
 <br>
 
 ### 📱 Job Digital (Arquitetura Modular)
