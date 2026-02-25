@@ -25,8 +25,8 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ## 🚀 Projetos em Destaque
 
 ### 🚗 Eurobike (Migração & Sustentação)
-**O Desafio:** Migrar uma plataforma legada completa para tecnologias modernas.
-- **O que fiz:** Atuei na migração para o ecossistema **Angular**, desenvolvendo novas páginas dinâmicas e garantindo a manutenção.
+**O Desafio:** Migração e reestruturação completa de uma plataforma legada para o ecossistema Angular.
+- **O que fiz:** Desenvolvimento de páginas dinâmicas, reestruturação de formulários e manutenção contínua da interface.
 - **Techs:** Angular, TypeScript.
 
 <img src="eurobikee.png" width="100%">
@@ -34,46 +34,45 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 <br>
 
 ### 📱 Job Digital (Arquitetura Modular)
-**O Desafio:** Criar uma interface escalável com reaproveitamento de código.
-- **O que fiz:** Desenvolvimento de arquitetura modular com componentes reutilizáveis.
+**O Desafio:** Desenvolver uma interface escalável com forte reaproveitamento de código.
+- **O que fiz:** Criação de interface com arquitetura modular e desenvolvimento de componentes reutilizáveis.
 - **Techs:** Angular, Bootstrap, HTML5 Semântico.
 
 <img src="jobdigital.png" width="100%">
 
 <br>
 
-### 🏢 JBKR Web (Institucional)
-**O Desafio:** Modernizar a cara da empresa com foco em performance.
-- **O que fiz:** Atualização visual completa e reestruturação da arquitetura da informação.
-- **Techs:** JavaScript (ES6+), HTML Semântico.
+### 🏢 JBKR Web (Site Institucional)
+**O Desafio:** Modernizar a interface corporativa com foco na atualização visual e arquitetura da informação.
+- **O que fiz:** Desenvolvimento e modernização completa da interface, garantindo melhor usabilidade e apresentação técnica.
+- **Techs:** JavaScript (ES6+), HTML5 Semântico, UI Modernização.
 
 <img src="jbkr.png" width="100%">
 
 <br>
 
-### ⚡ Ebkar (Reestruturação & SEO)
-**O Desafio:** Otimizar um código legado para melhorar a performance e o ranqueamento no Google.
-- **O que fiz:** Reestruturação completa do HTML/CSS com foco em Mobile-First e SEO Técnico.
+### ⚡ Ebkar (Reestruturação)
+**O Desafio:** Reestruturar código legado focando em alta performance e otimização para motores de busca.
+- **O que fiz:** Reestruturação focada em performance e otimização de SEO com abordagem Mobile-First.
 - **Techs:** HTML5, CSS3, JavaScript.
 
 <img src="ebkar.png" width="100%">
 
 <br>
 
-### 💍 Sonho de Noivos & Wedding Platform
-**O Desafio:** Criar experiências fluidas para gestão de eventos.
-- **O que fiz:** Projetos focados na jornada do utilizador e design responsivo (Mobile First).
+### 💍 Sonho de Noivos (Desenvolvimento Greenfield)
+**O Desafio:** Criar uma aplicação do zero (*Greenfield*) focada no segmento de eventos e casamentos.
+- **O que fiz:** Desenvolvimento de interface com foco absoluto em layout fluido e design responsivo.
 - **Techs:** HTML5, CSS3, UI Design.
 
 <img src="sonho de noivos.png" width="100%">
 
 ---
 
-## ⚡ Diferenciais
-Não apenas escrevo código, eu otimizo o processo. Utilizo **Engenharia de Prompt** para:
-1.  Gerar boilerplates de componentes Angular.
-2.  Refatorar funções legadas para ES6+.
-3.  Criar documentação técnica automática.
+## 🧠 Visão de Produto & Diferenciais
+
+- **Comunicação Visual & Usabilidade:** Expertise em estratégias de engajamento e comunicação visual, aplicadas diretamente à usabilidade e apresentação de interfaces técnicas.
+- **Gestão & Resolução de Problemas:** Alta capacidade de organização e gestão de prazos na resolução de problemas técnicos complexos.a.
 
 ---
 ⭐️ *Vamos conectar no LinkedIn? [Clique aqui](https://www.linkedin.com/in/michelemartins/)*
