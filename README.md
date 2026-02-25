@@ -6,6 +6,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 - 🔭 **Trabalho atual:** Desenvolvedora Front-End na JBKR WEB.
 - 💼 **Especialidade:** Ecossistema Angular & Migração de Legados.
 - 🌱 **Diferencial:** Uso de IA para otimização de código e produtividade.
+- 🗣️ **Idiomas:** Português (Nativo) | Espanhol (Intermediário) | Inglês (Em desenvolvimento)
 - 📫 **Contacto:** michelem1309@gmail.com
 
 ---
