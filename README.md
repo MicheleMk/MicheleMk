@@ -27,6 +27,8 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 🤖 Inovação & Produtividade
 
@@ -79,7 +81,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 - **O que fiz:** Desenvolvimento de interface com foco absoluto em layout fluido e design responsivo.
 - **Techs:** HTML5, CSS3, UI Design.
 <a href="https://sonhodenoivos.com.br/" target="_blank">
-<img src="sonho de noivos.png" width="100%">
+<img src="sonhodenoivos.png" width="100%">
 </a>
 
 ### 💒 Site de Casamento (Jean & Michele)
@@ -98,7 +100,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ## 🧠 Visão de Produto & Diferenciais
 
 - **Comunicação Visual & Usabilidade:** Expertise em estratégias de engajamento e comunicação visual, aplicadas diretamente à usabilidade e apresentação de interfaces técnicas.
-- **Gestão & Resolução de Problemas:** Alta capacidade de organização e gestão de prazos na resolução de problemas técnicos complexos.a.
+- **Gestão & Resolução de Problemas:** Alta capacidade de organização e gestão de prazos na resolução de problemas técnicos complexos.
 
 ---
 ⭐️ *Vamos conectar no LinkedIn? [Clique aqui](https://www.linkedin.com/in/michelemartins/)*
