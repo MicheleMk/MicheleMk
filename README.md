@@ -1,15 +1,29 @@
-# Olá, sou a Michele Martins! 👋
-### Front-End Developer | Angular & IA Generativa
+# Olá, sou a Michele Martins! 👋  
+### Desenvolvedora Front-End Júnior | Angular
 
-Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na modernização de sistemas, performance e experiência do utilizador (UX). Atualmente, combino código sólido com **Engenharia de Prompt** para acelerar entregas e garantir qualidade.
+Atuo como desenvolvedora front-end, trabalhando na modernização de sistemas, melhoria de interfaces existentes e também no desenvolvimento de projetos do zero.
 
-- 🔭 **Trabalho atual:** Desenvolvedora Front-End na JBKR WEB.
-- 💼 **Especialidade:** Ecossistema Angular & Migração de Legados.
-- 🌱 **Diferencial:** Uso de IA para otimização de código e produtividade.
-- 🗣️ **Idiomas:** Português (Nativo) | Espanhol (Intermediário) | Inglês (Em desenvolvimento)
-- 📫 **Contacto:** michelem1309@gmail.com
+Tenho construído experiência prática em projetos reais, com foco em performance, organização de código e experiência do usuário.
+
+Utilizo IA generativa como aliada no desenvolvimento — não como atalho, mas como ferramenta para acelerar o aprendizado, validar soluções e aumentar a produtividade no dia a dia.
+
+- 🔭 **Atual:** Desenvolvedora Front-End na JBKR WEB  
+- 💼 **Foco:** Angular, front-end e evolução de sistemas legados  
+- 🚀 **Diferencial:** Uso estratégico de IA no desenvolvimento  
+- 🌎 **Idiomas:** Português (nativo) | Espanhol (intermediário) | Inglês (em evolução)  
+- 📫 **Contato:** michelem1309@gmail.com  
 
 ---
+
+### Como eu trabalho
+
+- Organização e responsabilidade com prazos  
+- Comunicação clara com a equipe  
+- Pensamento crítico, principalmente no uso de IA  
+- Facilidade de aprendizado e adaptação  
+- Foco em resolver problemas de forma prática
+
+  
 ### 🛠️ Tecnologias e Ferramentas
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -88,10 +102,10 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ### 💒 Site de Casamento (Jean & Michele)
 **O Desafio:** Criar uma experiência digital única, interativa e totalmente personalizada para os convidados do próprio casamento.
 - **O que fiz:** Desenvolvimento completo da interface, com forte foco num design emocional, layout responsivo (Mobile-First) e excelente usabilidade para facilitar a navegação dos convidados.
-- **Techs:** HTML5, CSS3, UI/UX Design.
+- **Techs:**Angular 14, HTML5, CSS3, UI/UX Design.
 
 <a href="https://jeanemichele.com.br/" target="_blank">
-  <img src="jeanemichele.png" width="100%" alt="Site de Casamento Jean e Michele">
+  <img src="jeanemichele.png" width="100%" alt="Site de Casamento Jean e Michele">
 </a>
 
 <br>
@@ -105,3 +119,4 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 
 ---
 ⭐️ *Vamos conectar no LinkedIn? [Clique aqui](https://www.linkedin.com/in/michelemartins/)*
+             
