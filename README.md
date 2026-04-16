@@ -44,7 +44,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ### 🚗 Eurobike (Migração & Sustentação)
 **O Desafio:** Migração e reestruturação completa de uma plataforma legada para o ecossistema Angular.
 - **O que fiz:** Desenvolvimento de páginas dinâmicas, reestruturação de formulários e manutenção contínua da interface.
-- **Techs:** Angular, TypeScript.
+- **Techs:** Angular 16, TypeScript.
 <a href="https://www.eurobike.com.br/" target="_blank">
 <img src="eurobikee.png" width="100%">
 </a>
@@ -53,7 +53,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ### 📱 Job Digital (Arquitetura Modular)
 **O Desafio:** Desenvolver uma interface escalável com forte reaproveitamento de código.
 - **O que fiz:** Criação de interface com arquitetura modular e desenvolvimento de componentes reutilizáveis.
-- **Techs:** Angular, Bootstrap, HTML5 Semântico.
+- **Techs:** Angular 14, Bootstrap, HTML5 Semântico.
 <a href="https://jobdigital.online/" target="_blank">
 <img src="jobdigital.png" width="100%">
 </a>
@@ -62,7 +62,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ### 🏢 JBKR Web (Site Institucional)
 **O Desafio:** Modernizar a interface corporativa com foco na atualização visual e arquitetura da informação.
 - **O que fiz:** Desenvolvimento e modernização completa da interface, garantindo melhor usabilidade e apresentação técnica.
-- **Techs:** JavaScript (ES6+), HTML5 Semântico, UI Modernização.
+- **Techs:** Angular 18, JavaScript (ES6+), HTML5 Semântico, UI Modernização.
 <a href="https://www.jbkr.com.br/" target="_blank">
 <img src="jbkr.png" width="100%">
 </a>
@@ -71,7 +71,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ### ⚡ Ebkar (Reestruturação)
 **O Desafio:** Reestruturar código legado focando em alta performance e otimização para motores de busca.
 - **O que fiz:** Reestruturação focada em performance e otimização de SEO com abordagem Mobile-First.
-- **Techs:** HTML5, CSS3, JavaScript.
+- **Techs:** Angular 14, HTML5, CSS3, JavaScript.
 <a href="https://www.ebkar.com.br/" target="_blank">
 <img src="ebkar.png" width="100%">
 </a>
@@ -80,7 +80,7 @@ Sou uma desenvolvedora apaixonada por criar interfaces que funcionam. Foco na mo
 ### 💍 Sonho de Noivos (Desenvolvimento Greenfield)
 **O Desafio:** Criar uma aplicação do zero (*Greenfield*) focada no segmento de eventos e casamentos.
 - **O que fiz:** Desenvolvimento de interface com foco absoluto em layout fluido e design responsivo.
-- **Techs:** HTML5, CSS3, UI Design.
+- **Techs:** Angular 14, HTML5, CSS3, UI Design.
 <a href="https://sonhodenoivos.com.br/" target="_blank">
 <img src="sonhodenoivos.png" width="100%">
 </a>
